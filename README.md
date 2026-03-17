@@ -46,15 +46,17 @@ This project performs Exploratory Data Analysis (EDA) on retail sales data to un
 - Sales trends observed over time  
 - Customer behavior varies by gender  
 
-
 ## ▶️ How to Run
 
+```bash
 pip install pandas matplotlib seaborn
 python retail_eda.py
+```
 
 ## Recommendations
 Focus on top-selling categories
 Improve low-sales months
 Target valuable customers
+
 ## 👤 Author
 Created using Python for data analysis.
